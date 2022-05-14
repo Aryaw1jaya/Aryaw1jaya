@@ -1,6 +1,3 @@
-<head>
-<script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
-</head>
 <h1 align="center">Hi 👋, I'm Arya Wijaya</h1>
 <h3 align="center">A passionate programmer from Indonesia, very interested in the world of technology.</h3>
 
@@ -8,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaw1jaya" alt="aryaw1jaya" /></a> </p>
 
-- 🌱 I’m currently learning <i class="fab fa-laravel"></i>**Laravel and Flutter**
+- 🌱 I’m currently learning <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>**Laravel and <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryaw1jaya](https://github.com/Aryaw1jaya)
 
