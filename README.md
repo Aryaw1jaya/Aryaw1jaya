@@ -9,10 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryaw1jaya](https://github.com/Aryaw1jaya)
 
-- 📫 How to reach me **aryaw1555@gmail.com**
-- or : **aryaw1103@gmail.com**
-
-- 📄 Know about my experiences [https://aryaw1jaya.github.io/](https://aryaw1jaya.github.io/)
+- 📫 How to reach me **aryawijaya.4dev@gmail.com**
 
 - ⚡ Fun fact **I am a Hard Overthinker**
 
